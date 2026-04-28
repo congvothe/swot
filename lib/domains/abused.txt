@@ -24,7 +24,6 @@ unsl.edu.ar
 esore.asia
 nmms-mautern.at
 bsu.edu.az
-code.edu.az
 itstep.edu.az
 sabah.edu.az
 student.edu.az
@@ -164,7 +163,6 @@ stu.univ-saida.dz
 univ-emir.dz
 univ-ghardaia.dz
 donbosco.edu.ec
-espoch.edu.ec
 est.umet.edu.ec
 est.ups.edu.ec
 estudiantes.cordillera.edu.ec
@@ -226,7 +224,6 @@ daytonastate.edu
 deltacollege.edu
 dillard.edu
 dragons.hutchcc.edu
-dtcc.edu
 eco.maranatha.edu
 email.phoenix.edu
 email.tjc.edu
@@ -310,7 +307,7 @@ my.smccd.edu
 my.stchas.edu
 my.stvt.edu
 my.tccd.edu
-my.uwi.edu
+uwi.edu
 my.yosemite.edu
 mycom.marin.edu
 mymail.aacc.edu
@@ -378,7 +375,6 @@ student.angelina.edu
 student.annauniv.edu
 student.bccc.edu
 student.butte.edu
-student.carlalbert.edu
 student.centralia.edu
 student.cgcc.edu
 student.citruscollege.edu
@@ -594,7 +590,6 @@ student.smawirausaha.sch.id
 student.ub.ac.id
 student.unand.ac.id
 student.universitaspertamina.ac.id
-student.uny.ac.id
 students.smanra.sch.id
 students.uajy.ac.id
 students.ukdw.ac.id
@@ -605,7 +600,6 @@ uin-suka.ac.id
 umkt.ac.id
 umsida.ac.id
 unmer.ac.id
-uny.ac.id
 becbapatla.ac.in
 bnca.ac.in
 brightacademy.ac.in
@@ -757,7 +751,6 @@ kbtc.edu.mm
 kmd.edu.mm
 tutaunggyi.edu.mm
 ucsdawei.edu.mm
-uit.edu.mm
 uy.edu.mm
 khugjil.edu.mn
 stud.num.edu.mn
@@ -1641,7 +1634,6 @@ usiu.ac.ke
 unisal.edu.py
 umn.ac.id
 sesidf.org.br
-s-mu.edu.eg
 office.cju.ac.kr
 cju.ac.kr
 jnu.ac.kr
@@ -1702,7 +1694,6 @@ ipluso.pt
 bcc1852.com
 erdogan.edu.tr
 eep.br
-ecampus.ut.ac.id
 ut.ac.id
 daihocthudo.edu.vn
 bkacad.edu.vn
@@ -1891,3 +1882,24 @@ cberi.go.kr
 ttu.edu.gh
 gomendracollege.edu.np
 studuniroma3.onmicrosoft.com
+nguyensieuschool.edu.vn
+myiuc.com
+student.werribeesc.vic.edu.au
+werribeesc.vic.edu.au
+khwopa.edu.np
+adm.emi.edu.bo
+udemex.edu.mx
+iugaza.edu.ps
+students.lrsd.org
+viu.edu.vn
+hochiminh.itrithuc.vn
+ipiaget.pt
+student.green.ac.bd
+rmutsv.ac.th
+livenau.netmarconi-galletti.it
+sumare.edu.br
+eaeat-academy.edu.eg
+hpk.edu.ua
+eufh-mail.de
+inacapmail.cl
+mail.utoronto.ca
